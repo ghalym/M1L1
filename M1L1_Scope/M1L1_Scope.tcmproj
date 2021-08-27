@@ -7,8 +7,6 @@
     <RootNamespace>M1L1_Scope</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
-    <Content Include="Scope YT NC Project.tcscope">
-      <SubType>Content</SubType>
-    </Content>
+    <Content Include="C:\GitHub\M1L1\M1L1_Scope\Scope YT NC Project.tcscopex" />
   </ItemGroup>
 </Project>
